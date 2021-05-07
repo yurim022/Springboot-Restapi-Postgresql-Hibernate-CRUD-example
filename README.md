@@ -17,13 +17,13 @@
 
 
 ### screen capture
-- Create
+- Create Member
 ![create](https://user-images.githubusercontent.com/45115557/102078666-a154ea00-3e4e-11eb-9d59-c21d5b88acd0.PNG)
 
-- Get ID
+- GET Member By ID
 ![id조회](https://user-images.githubusercontent.com/45115557/102078705-b6ca1400-3e4e-11eb-84b0-5d5fa7b0d92c.PNG)
 
-- Get Entire
+- GET Entire
 ![findall](https://user-images.githubusercontent.com/45115557/102078721-bfbae580-3e4e-11eb-89d3-15fdd32670e7.PNG)
 
 - Update Email
